@@ -8,7 +8,7 @@
 
 ## 🔧 Ferramentas e Tecnologias
 
-- Selenium
+- Selenium WebDriver
 
 
 ## 🔗 Contato
